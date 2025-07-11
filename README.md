@@ -1,4 +1,4 @@
-# 🤗 Hugging Face Transformers - NLP Task Demos
+# 🤖 Natural Language Processing with Transformers: Sentiment, QA, Summarization, Translation & More
 
 This project demonstrates various NLP tasks using the Hugging Face `transformers` library in Python (Colab/Jupyter-friendly). It includes:
 
